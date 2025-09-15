@@ -1,9 +1,6 @@
 from pathlib import Path
 import pandas as pd
 
-
-
-
 if __name__ == "__main__":
     
     data_dir = Path("./data/paprika_F00012_part1.csv")
